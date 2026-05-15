@@ -5,7 +5,7 @@
 </p>
 
 ### 🛠️ Perfil Profesional: Transición de la Ingeniería Industrial al Software
-Tras más de una década de experiencia en el **mantenimiento, reparación e instalación de maquinaria pesada y robótica** en plantas industriales de gran magnitud (Vicky Foods, Autis Ingenieros), he redirigido mi carrera hacia el **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Tras más de una década de experiencia en el **mantenimiento, reparación e instalación de maquinaria pesada y robótica** en plantas industriales de gran magnitud, he redirigido mi carrera hacia el **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
 Aporto una base sólida de **madurez, responsabilidad y puntualidad**, cualidades forjadas en entornos de producción 24/7 donde el tiempo de inactividad no es una opción. Mi transición al sector IT es una evolución natural de mi capacidad analítica y de resolución de problemas técnicos complejos.
 
