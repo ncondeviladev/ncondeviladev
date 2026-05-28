@@ -30,10 +30,10 @@ Sistema distribuido de gestión de incidencias y mantenimiento, diseñado y cons
 
 ### 📁 Otros Proyectos
 
-- **[ParkSnap](https://github.com/ncondeviladev/park_snap)** — App Flutter de gestión de
+- **[ParkSnap](https://github.com/ncondeviladev/ParkSnap)** — App Flutter de gestión de
   aparcamiento con geolocalización, mapas en tiempo real, Firebase e iText para generación de
   PDFs. *(PMDM · 2025)*
-- **Mini-ERP** — Sistema de gestión empresarial desarrollado de forma autónoma durante el verano
+- **Mini-ERP (https://github.com/ncondeviladev/Mini-ERP)** — Sistema de gestión empresarial desarrollado de forma autónoma durante el verano
   de 1º a 2º de DAM. Primer proyecto Java real con POO, BBDD relacional y lógica de negocio.
   *(Proyecto personal · 2024)*
 
